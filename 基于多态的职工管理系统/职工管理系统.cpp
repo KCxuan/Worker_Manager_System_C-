@@ -5,7 +5,7 @@ using namespace std;
 #include "employee.h"
 #include "manager.h"
 #include "boss.h"
-#include <string>
+
 
 int main() {
 	
