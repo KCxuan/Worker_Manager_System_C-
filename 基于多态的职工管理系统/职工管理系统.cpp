@@ -8,8 +8,7 @@ using namespace std;
 #include <string>
 
 int main() {
-	//测试代码
-
+	
 	//实例化管理对象
 	WorkerManager wm;
 	int  choice = 0;
