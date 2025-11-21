@@ -4,7 +4,7 @@
 #include "manager.h"
 #include "boss.h"
 #include <algorithm>
-
+//在这里添加一个修改
 
 WorkerManager::WorkerManager() {
 	ifstream ifs;
